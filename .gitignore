@@ -14,5 +14,8 @@
 **/.mypy_cache
 setup.cfg
 
+# Some data which might be created
+*.png
+
 # macOS
 .DS_Store
